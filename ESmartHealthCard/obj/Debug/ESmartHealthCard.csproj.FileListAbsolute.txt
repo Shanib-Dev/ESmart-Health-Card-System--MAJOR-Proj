@@ -1,5 +1,0 @@
-E:\College Project\ESmartHealthCard\ESmartHealthCard\bin\ESmartHealthCard.dll
-E:\College Project\ESmartHealthCard\ESmartHealthCard\bin\ESmartHealthCard.pdb
-E:\College Project\ESmartHealthCard\ESmartHealthCard\obj\Debug\ESmartHealthCard.dll
-E:\College Project\ESmartHealthCard\ESmartHealthCard\obj\Debug\ESmartHealthCard.pdb
-E:\College Project\ESmartHealthCard\ESmartHealthCard\obj\Debug\ESmartHealthCard.csprojResolveAssemblyReference.cache
